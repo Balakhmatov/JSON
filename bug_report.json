@@ -1,0 +1,10 @@
+{
+"ID": 124,
+"Severity": "Major",
+"Title": "Menu button doesn't work on main Page",
+"STR": [ "1)Open www.site.com", "2)Tap on Menu button"],
+"Expected result": "The menu panel drops out",
+"Actual result": "Menu panel doesn't drop out",
+"Author": "Ilia Balakhmatov",
+"Environment": ["Win 11", "Chrome 115"]
+}
